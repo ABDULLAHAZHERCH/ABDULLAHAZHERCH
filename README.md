@@ -7,22 +7,21 @@
 
 - 🌱 I’m currently learning **Gen-Ai, LLM's**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ABDULLAHAZHERCH](https://github.com/ABDULLAHAZHERCH)
+- 👨‍💻 All of my projects are available at [GITHUB](https://github.com/ABDULLAHAZHERCH)
 
-- 💬 Ask me about **c/c#, SQL, Python**
+- 💬 Ask me about **Anything**
 
 - 📫 How to reach me **abdullahazher11@gmail.com**
 
-- 📄 Know about my experiences [https://linktr.ee/abdullahazherchaudhary](https://linktr.ee/abdullahazherchaudhary)
+- 📄 Know about my experiences [LinkTree](https://linktr.ee/abdullahazherchaudhary)
 
-- ⚡ Fun fact **I am Rich**
+- ⚡ Fun fact **I am HAPPY**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abdullah-azher-chaudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-azher-chaudhary" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdullah-azher-chaudhary-a94976260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-azher-chaudhary" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22033503" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22033503" height="30" width="40" /></a>
 <a href="https://kaggle.com/abazch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abazch" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/faltoo inc." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="faltoo inc." height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/abdullahazher11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abdullahazher11" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abdullahazher11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdullahazher11" height="30" width="40" /></a>
 </p>
