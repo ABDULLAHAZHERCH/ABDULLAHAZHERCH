@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahazherch&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahazherch" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullahazherch" alt="abdullahazherch" /></a> </p>
-
 - 🌱 I’m currently learning **Gen-Ai, LLM's**
 
 - 👨‍💻 All of my projects are available at [GITHUB](https://github.com/ABDULLAHAZHERCH)
