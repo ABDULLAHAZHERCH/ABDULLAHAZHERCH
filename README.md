@@ -2,7 +2,7 @@
 <h3 align="center">Building the future with code, AI, and curiosity</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdullahazherch&label=Profile%20Views&color=00f5d4&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=abdullahazherch&label=Profile%20Views&color=708993&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -28,11 +28,9 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullahazherch&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahazherch&layout=compact&theme=radical" alt="Top Languages" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullahazherch&show_icons=true&theme=radical" alt="GitHub Stats" />  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahazherch&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahazherch&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
-
-🌟 *“Code is my canvas, AI is my brush, and the future is my masterpiece.”*
