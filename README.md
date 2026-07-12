@@ -1,26 +1,6 @@
-<h1 align="center">🚀 Hey, I'm Abdullah Azher Chaudhary</h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdullahazherch&label=Profile%20Views&color=708993&style=flat" alt="Profile Views" />
-</p>
-
----
-
-💡 **What I Do**  
-- 🧠 Exploring **Generative AI** & **LLMs**  
-- 💻 Building **full-stack applications** with modern tech stacks  
-- ⚡ Turning ideas into real, scalable products  
-
-📂 **My Work** → [GitHub Portfolio](https://github.com/ABDULLAHAZHERCH)  
-🌐 **Portfolio** → [abdullahch.vercel.app](https://abdullahch.vercel.app)  
-🌐 **Links** → [LinkTree](https://linktr.ee/abdullahazherchaudhary)  
-📬 **Contact** → **abdullahazherchaudhary@gmail.com**  
-
----
-
-### 🛠 Tech Arsenal
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,cpp,c,cs,html,css,bootstrap,tailwind,firebase,git,linux,azure,gcp,mysql,postgresql&perline=10" />
-</p>
-
----
+<a href="https://github.com/ABDULLAHAZHERCH/ABDULLAHAZHERCH">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ABDULLAHAZHERCH/ABDULLAHAZHERCH/main/dark.svg">
+    <img alt="Abdullah Azher Chaudhary - Profile README" src="https://raw.githubusercontent.com/ABDULLAHAZHERCH/ABDULLAHAZHERCH/main/light.svg">
+  </picture>
+</a>
