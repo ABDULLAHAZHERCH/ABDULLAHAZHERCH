@@ -1,6 +1,27 @@
-<a href="https://github.com/ABDULLAHAZHERCH/ABDULLAHAZHERCH">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ABDULLAHAZHERCH/ABDULLAHAZHERCH/main/dark.svg">
-    <img alt="Abdullah Azher Chaudhary - Profile README" src="https://raw.githubusercontent.com/ABDULLAHAZHERCH/ABDULLAHAZHERCH/main/light.svg">
-  </picture>
-</a>
+# `abdullah@dev:~$ whoami`
+
+```bash
+Abdullah Azher Chaudhary
+Full-Stack Engineer | GenAI Builder
+Lahore, Pakistan
+```
+
+```bash
+abdullah@dev:~$ stack --list
+Frontend   : React, Next.js, TypeScript, Tailwind
+Backend    : Node.js, Flask, FastAPI, PostgreSQL, MySQL
+AI         : LLMs, RAG, Agents, LangChain
+Cloud/Tools: Azure, GCP, Git, Linux, VS Code
+```
+
+```bash
+abdullah@dev:~$ mission
+Building products that blend solid engineering with practical AI.
+```
+
+## Connect
+
+- Portfolio: [abdullahch.vercel.app](https://abdullahch.vercel.app)
+- GitHub: [@ABDULLAHAZHERCH](https://github.com/ABDULLAHAZHERCH)
+- LinkedIn: [abdullahazherchaudhary](https://linkedin.com/in/abdullahazherchaudhary)
+- Email: `abdullahazherchaudhary@gmail.com`
