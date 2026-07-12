@@ -28,8 +28,3 @@ CURRENT
   <a href="https://linkedin.com/in/abdullahazherchaudhary">LinkedIn</a> •
   <a href="mailto:abdullahazherchaudhary@gmail.com">Email</a>
 </p>
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ABDULLAHAZHERCH&show_icons=true&hide_border=true&title_color=00C2FF&icon_color=00C2FF&text_color=C9D1D9&bg_color=00000000" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABDULLAHAZHERCH&layout=compact&hide_border=true&title_color=00C2FF&text_color=C9D1D9&bg_color=00000000" />
-</p>
