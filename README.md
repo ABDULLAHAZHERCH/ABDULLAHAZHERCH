@@ -17,9 +17,9 @@ STACK
 🛠️ Tooling   : Git, Linux, VS Code
 
 CURRENT
-- 🚀 Building scalable full-stack apps and SaaS products
-- 🧩 Shipping AI features for automation and real user workflows
-- 📈 Working across web engineering, ML prototypes, and product UX
+- Building scalable full-stack apps and SaaS products
+- Shipping AI features for automation and real user workflows
+- Working across web engineering, ML prototypes, and product UX
 ```
 
 <p>
