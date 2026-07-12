@@ -1,39 +1,35 @@
 # Abdullah Azher Chaudhary
 
-Full-Stack Engineer focused on building production-ready web products and practical AI features.
+```text
+PROFILE
+Name      : Abdullah Azher Chaudhary
+Role      : Full-Stack Engineer
+Location  : Lahore, Pakistan
+Focus     : Production web apps + practical AI features
 
-## About
+STACK
+Frontend  : React, Next.js, TypeScript, Tailwind
+Backend   : Node.js, FastAPI, Flask
+Data      : PostgreSQL, MySQL
+AI        : LLMs, RAG, Agents, LangChain
+Cloud     : Azure, GCP
+Tooling   : Git, Linux, VS Code
 
-- Based in Lahore, Pakistan
-- Building with React/Next.js on the frontend and Node.js/FastAPI on the backend
-- Interested in LLM applications, RAG workflows, and developer tooling
+CURRENT
+- Building scalable full-stack products
+- Shipping useful AI integrations into real workflows
+- Improving performance, reliability, and developer experience
+```
 
-## Current Focus
+<p>
+  <a href="https://abdullahch.vercel.app">Portfolio</a> •
+  <a href="https://github.com/ABDULLAHAZHERCH?tab=repositories">Projects</a> •
+  <a href="https://github.com/ABDULLAHAZHERCH">Activity</a> •
+  <a href="https://linkedin.com/in/abdullahazherchaudhary">LinkedIn</a> •
+  <a href="mailto:abdullahazherchaudhary@gmail.com">Email</a>
+</p>
 
-- Shipping full-stack products with clean architecture and scalable APIs
-- Integrating AI capabilities into real user workflows
-- Improving reliability, performance, and DX across projects
-
-## Tech Stack
-
-| Area | Technologies |
-| --- | --- |
-| Frontend | React, Next.js, TypeScript, Tailwind CSS |
-| Backend | Node.js, Flask, FastAPI |
-| Databases | PostgreSQL, MySQL |
-| AI | LLMs, RAG, Agents, LangChain |
-| Cloud & Tools | Azure, GCP, Git, Linux, VS Code |
-
-## GitHub
-
-- Repositories: [View all projects](https://github.com/ABDULLAHAZHERCH?tab=repositories)
-- Contributions: [Activity graph](https://github.com/ABDULLAHAZHERCH)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ABDULLAHAZHERCH&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ABDULLAHAZHERCH&layout=compact&hide_border=true)
-
-## Contact
-
-- Portfolio: [abdullahch.vercel.app](https://abdullahch.vercel.app)
-- LinkedIn: [abdullahazherchaudhary](https://linkedin.com/in/abdullahazherchaudhary)
-- Email: abdullahazherchaudhary@gmail.com
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ABDULLAHAZHERCH&show_icons=true&hide_border=true&title_color=00C2FF&icon_color=00C2FF&text_color=C9D1D9&bg_color=00000000" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABDULLAHAZHERCH&layout=compact&hide_border=true&title_color=00C2FF&text_color=C9D1D9&bg_color=00000000" />
+</p>
